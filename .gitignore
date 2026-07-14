@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Dataset
+dataset/
+
+# Model Weights
+*.pth
+*.pt
+*.tar
+
+# Generated Videos
+annotated_upload.mp4
+annotated_live.mp4
+
+# Generated Snapshots
+upload_snapshots/
+live_snapshots/
+foul_snapshots_upload_*/
+
+# Temporary Files
+*.log
+*.tmp
+*.cache
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Dataset
+dataset/
+
+# Videos
+videos/
+
+# Generated outputs
+upload_snapshots/
+live_snapshots/
+foul_snapshots_upload*/
+annotated_upload.mp4
+annotated_live.mp4
+
+# Temporary files
+*.log
+
+.venv/
+videos/
+dataset/
+
+upload_snapshots/
+live_snapshots/
+foul_snapshots_upload_*/
+
+annotated_upload.mp4
+annotated_live.mp4
+
+*.pth
+*.pt
+*.tar
+
+__pycache__/
